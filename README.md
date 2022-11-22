@@ -24,7 +24,7 @@ Dribble: https://dribbble.com/sourcer
 
 Codepen: http://bit.ly/youcode_ihire
 
-AngelList: http://bit.ly/angel_io
+AngelList: https://angel.co/u/mr-sourcer
 
 Behance: http://bit.ly/heretohire
 
