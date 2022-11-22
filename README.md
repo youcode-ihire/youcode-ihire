@@ -28,6 +28,6 @@ AngelList: https://angel.co/u/mr-sourcer
 
 Behance: http://bit.ly/heretohire
 
-My website:(https://www.mr-sourcer.com/)
+My website:https://www.mr-sourcer.com/
 
 Want to talk? https://calendly.com/sourcer
