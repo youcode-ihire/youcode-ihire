@@ -16,7 +16,7 @@ Twitter: https://bit.ly/Mr_Sourcer
 
 Stack Overflow: http://bit.ly/here2hire
 
-About Me: http://bit.ly/sourcer
+About Me: https://about.me/sourcer
 
 Kaggle: http://bit.ly/mrsourcer
 
