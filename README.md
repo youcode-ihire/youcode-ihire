@@ -1,4 +1,3 @@
-Hello There! 
 Hey there, this is < Quentin /> a.k.a -- .-. / ... --- ..- .-. -.-. . .-. 🕵️
 
 I am a Data-Driven Talent Sourcer / Recruiter 🎯 with over 8 years of Global 🌎 Sourcing & End-to-End Recruitment expereince. I focus on hring candidates across USA 🇺🇸, Canada 🇨🇦, LATAM 🇧🇷🇲🇽🇨🇴🇦🇷🇨🇷🇻🇪🇨🇱, India 🇮🇳🇮🇳🇮🇳, Australia 🇦🇺, Singapore 🇸🇬 and a bit of EU 🇬🇧🇪🇸🇩🇪
